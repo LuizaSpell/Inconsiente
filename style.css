@@ -1,3 +1,35 @@
-p {
-    font-family: serif;
+.layout{
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    text-align: center;
+
+}
+
+.principal{
+    border: 10px;
+    border-color: orange;
+    border-style: solid;
+    background-color: brown;
+    width: 500px;
+    padding: 2px;
+    flex-shrink: 0;
+}
+
+.esquerda{
+    border: 10px;
+    border-color: orange;
+    border-style: solid;
+    background-color: brown;
+    width: 400px;
+    padding: 2px;
+}
+
+.direita{
+    border: 10px;
+    border-color: orange;
+    border-style: solid;
+    background-color: brown;
+    width: 400px;
+    padding: 2px;
 }
