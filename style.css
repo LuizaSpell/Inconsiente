@@ -1,9 +1,11 @@
+* {
+    text-align: center;
+}
+
 .layout{
     display: flex;
     justify-content: center;
     gap: 10px;
-    text-align: center;
-
 }
 
 .principal{
