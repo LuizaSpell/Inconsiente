@@ -19,7 +19,7 @@
 
 .principal{
     width: 500px;
-    padding: 2px;
+    padding: 10px;
     flex-shrink: 0;
 }
 
@@ -31,4 +31,5 @@
 .direita{
     width: 400px;
     padding: 10px;
+    padding-top: 10px;
 }
